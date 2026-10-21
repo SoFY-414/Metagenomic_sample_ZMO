@@ -3,10 +3,6 @@ title: README
 
 ---
 
----
-title: 'Microeuk-ZMO-OPTN'
----
-
 # Characterization of the micro-eukaryote community in the OMZ-ETNP
 
 Oxygen Minimum Zones (OMZs), such as the one in the Eastern Tropical North Pacific (ETNP)—the largest globally—are expanding due to climate change, critically influencing global biogeochemical cycles. However, microbial ecology studies in these systems have focused almost exclusively on prokaryotes, leaving the *in situ* diversity, composition, and ecophysiology of microeukaryotes largely unexplored. Although marine snow (the particle-associated fraction) is known to act as a crucial biogeochemical oasis for marine microorganisms, how microeukaryotes partition between these microniches and free-living lifestyles across vertical oxygen gradients remains a major gap in molecular oceanography. To address this without the massive loss of rare biosphere data from *de novo* assembly or the amplification biases of classic metabarcoding, we implemented a direct, read-based metagenomic profiling pipeline in protein space using Kaiju.
