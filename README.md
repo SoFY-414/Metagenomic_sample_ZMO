@@ -73,7 +73,7 @@ For more information about the samples see the file: amb_data.csv
 ## Workflow
 We used metagenomic shotgun approach as follow:
 
-![worflow](https://hackmd.io/_uploads/Sy9fssLnfx.png)
+![worflow](worflow.png)
 
 
 ## Repository structure
