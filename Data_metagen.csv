@@ -1,0 +1,15 @@
+﻿Bioproyect,ID access,Station,Depth (m),Filter (μm),Type_micro-niche,Platform,Read_Configuration,N,W
+,,,,,,,,,
+PRJNA632347,SRR12425620,2,125,0.22-1.6,VL,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+,SRR12425871,2,125,1.6-30 ,AP,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+,SRR12426445,2,300,1.6-30,AP,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+,SRR12426459,2,300,0.22-1.6,VL,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+,SRR12426461,2,800,1.6-30,AP,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+,SRR12426463,2,800,0.22-1.6,VL,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+,SRR11786911,2,30,1.6-30,AP,Illumina HiSeq 2000,paired-end 302bp,18.92,108.8
+PRJNA254808,SRR1509790,6,30,0.22-1.6,VL,Illumina MiSeq,paired-end 478pb,18.9,104.5
+,SRR1509794,6,125,0.22-1.6,VL,Illumina MiSeq,paired-end 400pb,18.9,104.5
+,SRR1509796,6,300,0.22-1.6,VL,Illumina MiSeq,paired-end 379pd,18.9,104.5
+,SRR1509797,10,30,0.22-1.6,VL,Illumina MiSeq,paired-end 479pd,18.8,104.7
+,SRR1509799,10,125,0.22-1.6,VL,Illumina MiSeq,paired-end 479pd,18.8,104.7
+,SRR1509800,10,300,0.22-1.6,VL,Illumina MiSeq,paired-end 476pd,18.8,104.7
