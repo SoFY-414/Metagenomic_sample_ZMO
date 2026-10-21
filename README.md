@@ -114,7 +114,7 @@ Folder with Bash scripts for raw read quality control, adapter trimming, and pro
 
 * **01_quality_trimming.sh**: Unified iterative script that runs pre-trimming `FastQC` and `MultiQC`, performs paired-end adapter and quality trimming with `Trimmomatic` (`ILLUMINACLIP:2:30:7 LEADING:2 TRAILING:2 SLIDINGWINDOW:4:2 MINLEN:50`), and executes post-trimming `FastQC` and `MultiQC` across all 13 samples.
 * **02_run_kaiju_reads.sh**: Script to classify paired-end trimmed reads directly in protein space using `Kaiju` in greedy mode (`-s 70 -E 0.01 -v`) against the `nr_euk` index.
-* **03_kaiju2table_fullpath.sh**: Script to convert raw `.kaiju.out` outputs into full taxonomic hierarchy tables (`*_fullpath.tsv`) using `kaiju2table`[cite: 5].
+* **03_kaiju2table_fullpath.sh**: Script to convert raw `.kaiju.out` outputs into full taxonomic hierarchy tables (`*_fullpath.tsv`) using `kaiju2table`.
 
 ### `/analyses/bin`
 Folder with downstream R scripts for taxonomic validation, compositional statistics, diversity estimation, and ecological modeling.
