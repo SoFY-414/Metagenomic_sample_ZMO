@@ -17,12 +17,12 @@ In this repository, you will find the bioinformatic and statistical workflow for
 * **Local / Workstation Environment:** RStudio Desktop for taxonomic curation, statistical modeling, and visualization.
 
 ### Software
-| Software | Version | Purpose | Reference |
+| Software | Version | Purpose | 
 | :--- | :--- | :--- | :--- |
-| **FastQC** | `v0.12.1` | Per-base quality assessment and adapter screening of raw and trimmed FASTQ reads | Andrews (2017/2026) |
-| **MultiQC** | `v1.17` | Aggregation of FastQC and Trimmomatic logs into unified HTML summary reports | Ewels et al. (2016) |
-| **Trimmomatic** | `v0.39` | Adapter removal (`TruSeq3-PE.fa`) and conservative sliding-window quality filtering | Beier et al. (2026) |
-| **Kaiju** | `v1.10.1` | Six-frame translation and protein-level taxonomic profiling against `nr_euk` (May 2023) | Menzel et al. (2016) |
+| **FastQC** | `v0.12.1` | Per-base quality assessment and adapter screening of raw and trimmed FASTQ reads | 
+| **MultiQC** | `v1.17` | Aggregation of FastQC and Trimmomatic logs into unified HTML summary reports |
+| **Trimmomatic** | `v0.39` | Adapter removal (`TruSeq3-PE.fa`) and conservative sliding-window quality filtering | 
+| **Kaiju** | `v1.10.1` | Six-frame translation and protein-level taxonomic profiling against `nr_euk` (May 2023) |
 
 
 ### R version
@@ -45,7 +45,7 @@ All raw genomic sequences and oceanographic metadata analyzed in this workflow w
   * Origin Reference: Glass et al. (2015) [https://doi.org/10.3389/fmicb.2015.00998]
 
 
-For more information about the samples see the file: ![data_sample](Data_metagen.csv)
+For more information about the samples see the file: [data_sample](Data_metagen.csv)
 
 Where the columns:
 * **Bioproyect**: name of the project where the samples were stored.
@@ -68,7 +68,7 @@ Where the columns:
 * **Nitrogen Geochemistry ($\text{NO}_3^-$, $\text{NO}_2^-$) & Complementary Hydrography (Cruise NH1410):**
   * Origin Reference: Altabet, M. A., & McNeil, C. L. (2022). *Vertical profiles of N2 gas concentrations in excess of equilibrium values along with the isotopic composition of total N2, NO3- and NO2- from R/V New Horizon cruise NH1410 in the Eastern Tropical North Pacific from May to June 2014* (Version 1) [Dataset]. BCO-DMO. [https://doi.org/10.26008/1912/BCO-DMO.705567.1](https://doi.org/10.26008/1912/BCO-DMO.705567.1).
 
-For more information about the samples see the file: ![amb_data](amb_data.csv)
+For more information about the samples see the file: [amb_data](amb_data.csv)
 
 ## Workflow
 We used metagenomic shotgun approach as follow:
