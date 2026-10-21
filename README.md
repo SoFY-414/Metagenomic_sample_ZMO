@@ -4,6 +4,10 @@ Oxygen Minimum Zones (OMZs), such as the one in the Eastern Tropical North Pacif
 
 In this repository, you will find the bioinformatic and statistical workflow for the read-based metagenomic analysis of microeukaryotic communities from the ETNPOMZ, evaluating their taxonomic diversity, vertical transitions, and niche preferences (particle-associated vs. free-living fractions) in response to oceanographic variables.
 
+Author: Sofia Fonseca Yepez @SoFY-414
+
+Co-authors: Francisco Javier García de León, Mirna Vázquez Rosas Landa, Tania Valdivia Carrillo and Verónica Mendoza Portillo
+
 ## Aims
 
 1. To recover microeukaryotic sequences from public shotgun metagenomes of the Eastern Tropical North Pacific Oxygen Minimum Zone (ETNP-OMZ).
