@@ -44,7 +44,8 @@ All raw genomic sequences and oceanographic metadata analyzed in this workflow w
 
 ### 1. Shotgun metagenomic datasets (NCBI_SRA)
 * **NCBI BioProject [PRJNA632347](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA632347):** Offshore Station 2 ($18.92^\circ\text{N}, 108.8^\circ\text{W}$).
-  * Origin References: Ganesh et al. (2015) [https://doi.org/10.1038/ismej.2015.44](https://doi.org/10.1038/ismej.2015.44); Muratore et al. (2023) [https://doi.org/10.1128/msystems.01095-22](https://doi.org/10.1128/msystems.01095-22)[cite: 1].
+  * Origin References: Ganesh et al. (2015) [https://doi.org/10.1038/ismej.2015.44](https://doi.org/10.1038/ismej.2015.44); Muratore et al. (2023) [https://doi.org/10.1128/msystems.01095-22](https://doi.org/10.1128/msystems.01095-22).
+    
 * **NCBI BioProject [PRJNA254808](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA254808):** Coastal Stations 6 ($18.9^\circ\text{N}, 104.5^\circ\text{W}$) and 10 ($18.8^\circ\text{N}, 104.7^\circ\text{W}$).
   * Origin Reference: Glass et al. (2015) [https://doi.org/10.3389/fmicb.2015.00998]
 
