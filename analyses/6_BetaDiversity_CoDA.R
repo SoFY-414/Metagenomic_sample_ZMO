@@ -1,9 +1,8 @@
 # ==============================================================================
 # Script: 6_BetaDiversity_CoDA_NMDS.R
 # Description: Performs Compositional Data Analysis (CZM zero replacement + CLR
-#              transformation), Aitchison distance calculation, PERMANOVA/ANOSIM,
-#              NMDS ordinations with a posteriori envfit vector fitting, dbRDA,
-#              and marginal variance partitioning.
+#              transformation), Aitchison distance calculation,
+#              NMDS ordinations with a posteriori envfit vector fitting.
 # ==============================================================================
 
 librerias <- c("ggplot2", "dplyr", "tidyr", "stringr", "scales", "RColorBrewer",
