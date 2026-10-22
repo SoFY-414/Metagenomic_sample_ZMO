@@ -2,10 +2,10 @@
 # ==============================================================================
 # Script Name: 01_quality_trimming.sh
 # Author: Sofia Fonseca Yepez ann automated writing with AI
-# Description: Automated and iterative pipeline for paired-end shotgun metagenomes:
-#              1. Pre-trimming Quality Control (FastQC + MultiQC)
-#              2. Conservative Adapter & Quality Trimming (Trimmomatic v0.39)
-#              3. Post-trimming Quality Control (FastQC + MultiQC)
+# Description: Automated and iterative pipeline for paired-end shotgun metagenomes
+#               Sequence alignment against the database
+#              
+
 # ==============================================================================
 
 # ------------------------------
