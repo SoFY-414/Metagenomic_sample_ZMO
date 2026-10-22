@@ -22,7 +22,7 @@ Co-authors: Francisco Javier García de León, Mirna Vázquez Rosas Landa, Tania
 
 ### Software
 | Software | Version | Purpose | 
-| :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | 
 | **FastQC** | `v0.12.1` | Per-base quality assessment and adapter screening of raw and trimmed FASTQ reads | 
 | **MultiQC** | `v1.17` | Aggregation of FastQC and Trimmomatic logs into unified HTML summary reports |
 | **Trimmomatic** | `v0.39` | Adapter removal (`TruSeq3-PE.fa`) and conservative sliding-window quality filtering | 
