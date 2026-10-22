@@ -42,7 +42,7 @@ Co-authors: Francisco Javier García de León, Mirna Vázquez Rosas Landa, Tania
 ## Data
 All raw genomic sequences and oceanographic metadata analyzed in this workflow were retrieved from open-access repositories associated with the **Oxygen Minimum Zone Microbial Biogeochemistry Expedition (OMZoMBiE)** aboard the R/V *New Horizon* (Cruise NH1315, June 13–28, 2013) and complementary cruise NH1410 (May–June 2014) off the coast of Jalisco and Colima, Mexico.
 
-**You can download the data with these script generated from ENA** : [station_06_and_10](sta_0610_enafile_download.sh) [and station_02](sta_02_enafile_downland.sh)
+**You can download the data with these script generated from ENA** : [station_06_and_10](sta_0610_enafile_download.sh) and [station_02](sta_02_enafile_downland.sh)
 
 ### 1. Shotgun metagenomic datasets (NCBI_SRA)
 * **NCBI BioProject [PRJNA632347](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA632347):** Offshore Station 2 ($18.92^\circ\text{N}, 108.8^\circ\text{W}$).
